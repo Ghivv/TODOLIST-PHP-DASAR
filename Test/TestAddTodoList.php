@@ -7,4 +7,4 @@ addTodoList("Belajar PHP");
 addTodoList("Belajar Mysql");
 addTodoList("Belajar Laravel");
 
-var_dump($todolist);
+var_dump($todoList);
